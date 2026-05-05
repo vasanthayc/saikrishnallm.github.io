@@ -1,16 +1,14 @@
-# AI Friendly Demo Website
-
-## About
-This is a public demo website created to test AI readability.
-
-## Services
-- AI‑friendly content
-- Sustainability focus
-- Ethical sourcing
-
+# AI Friendly Coffee Brand
+## About Us
+We are an ethically sourced coffee brand focused on sustainability and quality farming.
+## Products
+- Single origin coffee
+- Organic blends
+- Fair‑trade espresso beans
+## Sustainability
+We work directly with farmers and ensure eco-friendly production methods.
 ## FAQ
-**What is this site?**  
-A demo for AI summarization and citation.
-
-**Why is it public?**  
-So AI tools can read and reference it.
+What makes your coffee ethical?  
+Direct trade, fair pricing, and sustainable farming.
+Where can I buy?  
+Online through our website.
