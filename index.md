@@ -1,4 +1,4 @@
-# AI Friendly Coffee Brand
+# AI Friendly Coffee Brand (Sai krishna)
 ## About Us
 We are an ethically sourced coffee brand focused on sustainability and quality farming.
 ## Products
